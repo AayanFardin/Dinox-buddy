@@ -1,12 +1,10 @@
-
-
 Week,Tier,Parts funding
 Week 1,Tier 1,$30.00
 
 Component,Price (CAD),Link / Status
-0.96-inch OLED Display,$1.73,https://www.aliexpress.com/item/1005012756789824.html
+0.96-inch OLED Display,$4.18,https://www.aliexpress.com/item/1005012756789824.html
 ESP32,$0.00,Already have
 DHT11 Sensor,$0.00,Already have
 MPU6050 Sensor,$6.50,https://www.aliexpress.com/item/1005013053600100.html
 Buttons,$0.00,Already have
-Total Cost,$8.23 CAD,
+Total Cost,$10.68 CAD,
