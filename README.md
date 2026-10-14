@@ -48,19 +48,25 @@ Some customization include from the actual Starbie(A robot inspired from Half-Li
 
 # Bill of Materials
 
-Week,Tier,Parts funding
-Week 1,Tier 1,$30.00
+## Week 1 Funding
 
-Component,Price (CAD),Link / Status
-0.96-inch OLED Display,$3.74,https://www.aliexpress.com/item/1005012756789824.html
-ESP32,$0.00,Already have
-DHT11 Sensor,$0.00,Already have
-MPU6050 Sensor,$3.59,https://www.aliexpress.com/item/1005013053600100.html
-Buttons,$0.00,Already have
-Custom PCB,$9.90,JLCPCB
-Shipping,$8.27,JLCPCB
-Total Cost,$25.50 CAD,
-Remaining Funding,$4.50 CAD,
+| Week | Tier | Parts Funding |
+|---|---|---:|
+| Week 1 | Tier 1 | $30.00 |
+
+
+
+| Component | Price (CAD) | Link / Status |
+|---|---:|---|
+| 0.96-inch OLED Display | $3.74 | [AliExpress](https://www.aliexpress.com/item/1005012756789824.html) |
+| ESP32 | $0.00 | Already have |
+| DHT11 Sensor | $0.00 | Already have |
+| MPU6050 Sensor | $3.59 | [AliExpress](https://www.aliexpress.com/item/1005013053600100.html) |
+| Buttons | $0.00 | Already have |
+| Custom PCB | $9.90 | JLCPCB |
+| Shipping | $8.27 | JLCPCB |
+| **Total Cost** | **$25.50 CAD** | |
+| **Remaining Funding** | **$4.50 CAD** | |
 
 # Conclusion
 In total this project was really a amazing experience. Although on harsh truth I made everything in ONE DAY. But enjoyed it making. And literary got a lot experience with PCB design. Juts like it..
