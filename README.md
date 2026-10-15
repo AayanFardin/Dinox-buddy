@@ -54,7 +54,7 @@ Some customization include from the actual Starbie(A robot inspired from Half-Li
 |---|---|---:|
 | Week 1 | Tier 1 | $30.00 |
 
-
+## Parts List
 
 | Component | Price (CAD) | Link / Status |
 |---|---:|---|
@@ -65,8 +65,9 @@ Some customization include from the actual Starbie(A robot inspired from Half-Li
 | Buttons | $0.00 | Already have |
 | Custom PCB | $9.90 | JLCPCB |
 | Shipping | $8.27 | JLCPCB |
-| **Total Cost** | **$25.50 CAD** | |
-| **Remaining Funding** | **$4.50 CAD** | |
+| Tax | $0.96 | Component delivery |
+| **Total Cost** | **$26.46 CAD** | |
+| **Remaining Funding** | **$3.54 CAD** | |
 
 # Conclusion
 In total this project was really a amazing experience. Although on harsh truth I made everything in ONE DAY. But enjoyed it making. And literary got a lot experience with PCB design. Juts like it..
