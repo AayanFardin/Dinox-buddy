@@ -7,8 +7,8 @@ ESP32,$0.00,Already have
 DHT11 Sensor,$0.00,Already have
 MPU6050 Sensor,$3.59,https://www.aliexpress.com/item/1005013053600100.html
 Buttons,$0.00,Already have
-Custom PCB,$9.90,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=be3a9849ecf2421a859a11e96d5df162
-Shipping,$8.27,JLCPCB
+Custom PCB,$9.90,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=be3a9849ecf2421a859a11e96d5df162&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&spm=Jlcpcb.Partcart.1002
+Shipping,$8.27,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=be3a9849ecf2421a859a11e96d5df162&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&spm=Jlcpcb.Partcart.1002
 Tax,$0.96,Component delivery
 Total Cost,$26.46 CAD,
 Remaining Funding,$3.54 CAD,
