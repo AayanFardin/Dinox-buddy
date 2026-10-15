@@ -1,13 +1,8 @@
-Week,Tier,Parts funding
-Week 1,Tier 1,$30.00
-
-Component,Price (CAD),Link / Status
-0.96-inch OLED Display,$3.74,https://www.aliexpress.com/item/1005012756789824.html
-ESP32,$0.00,Already have
-DHT11 Sensor,$0.00,Already have
-MPU6050 Sensor,$3.59,https://www.aliexpress.com/item/1005013053600100.html
-Buttons,$0.00,Already have
-Custom PCB,$9.90,JLCPCB
-Shipping,$8.27,JLCPCB
-Total Cost,$25.50 CAD,
-Remaining Funding,$4.50 CAD,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+MPU6050,1,Ali express,$3.59,$3.59,https://www.aliexpress.com/item/1005013053600100.html?spm=a2g0o.cart.0.0.48f538daWtzRLG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+6.50%21CAD+3.59%21%21CAD+3.59%21%21%21%402103128917920199830608580e0cbd%2112000060113133261%21ct%21CA%217849594622%21%211%210%21
+0.96 inch OLED display,1,Ali express,$3.74,$3.74,https://www.aliexpress.com/item/1005006827999782.html?spm=a2g0o.cart.0.0.48f538daWtzRLG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+3.74%21CAD+3.74%21%21CAD+3.74%21%21%21%402103128917920199830608580e0cbd%2112000038433155651%21ct%21CA%217849594622%21%211%210%21
+PCB,1,JLCPCB,$9.90,$9.90,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=0f3e75e2d0094a2cbe48e7a23f5717c0&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&spm=Jlcpcb.Partcart.1002
+ESP32,1,,$0.00,$0.00,
+DHT11 Sensor,1,,$0.00,$0.00,
+Buttons,1,,$0.00,$0.00,
+Estimated total shipping,1,,,$9.23,
