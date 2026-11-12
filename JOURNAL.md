@@ -26,3 +26,13 @@ I worked on Dinox Buddy. A small robot in a display that can give reaction and t
 
 ![Screenshot 2026-10-11 215552](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/c097536f2ceb0d7ade14803d0c82730c49ee4b98b0d51fd2efc6d4a68789753b.png)
 
+<img width="1917" height="1033" alt="Screenshot 2026-11-11 185613" src="https://github.com/user-attachments/assets/1c5ad4f8-3180-4450-b942-a4b01f37d1df" />
+
+<img width="1026" height="666" alt="Screenshot 2026-11-11 185125" src="https://github.com/user-attachments/assets/97e0fe77-4ef3-4b28-8e8e-5b8d2aa3c679" />
+
+<img width="775" height="692" alt="Screenshot 2026-11-11 185134" src="https://github.com/user-attachments/assets/fdb80e88-4577-4bf2-9998-ff5dc1c75949" />
+
+<img width="898" height="816" alt="Screenshot 2026-11-11 185150" src="https://github.com/user-attachments/assets/2a6ef3c1-3d79-4048-860c-af28dd34217a" />
+
+<img width="985" height="806" alt="Screenshot 2026-11-11 185205" src="https://github.com/user-attachments/assets/1a615f47-ecc8-458e-8a92-070d51732034" />
+
