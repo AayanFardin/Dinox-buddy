@@ -26,18 +26,3 @@ I worked on Dinox Buddy. A small robot in a display that can give reaction and t
 
 ![Screenshot 2026-10-11 215552](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/c097536f2ceb0d7ade14803d0c82730c49ee4b98b0d51fd2efc6d4a68789753b.png)
 
-![Screenshot 2026-10-11 215547](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/d75764086efd641b4e800fa76e3100d93da731d38ff8bb29aa748d42718e118a.png)
-
-![Screenshot 2026-10-11 215543](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/22c56d2356b52e973901e42c77c73790d1a2e2272dd2bf7bdf5e4ec1f48d8c04.png)
-
-![Screenshot 2026-10-11 215533](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/6144befd91a98bde4b792aff1c0851c0449687e4106bbc917ce972ec92df6408.png)
-
-![Screenshot 2026-10-11 215528](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/f479c7eb1cbc44b416889ad7ea29c4c97ebf6c6c4674a2dacd14ff98bcf34556.png)
-
-![Screenshot 2026-10-11 215522](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/39d2749704c4c13d76e11509a2d6ff676e814420ba5be17367bd726f0d80056f.png)
-
-![Screenshot 2026-10-11 215517](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/35443f02d6c9ece96cbc835ae06690fd4e32ed75633a4678558a4dec667cbcbf.png)
-
-![Screenshot 2026-10-11 215508](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/3756fb68b18031572088756761e6d83fb1fd61f32a5917857b10b14690e9c254.png)
-
-![Screenshot 2026-10-11 203019](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wk1Fy4XlozoezvWbt9fXLRd0VpfatGgM/34a40cfc66fdd01c34b843e3b35ed90366de3fddbb4cd1c8d3f2fbbe0074836d.png)
