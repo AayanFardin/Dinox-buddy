@@ -1,5 +1,5 @@
 # Dinox-buddy
-Dinox Buddy is a little robot I'm building to explore robotics, electronics, and programming and for the Half-Life program by Hack Club. The reason itz name is dino cuz you can literary PLAY THAT DINO GAME IN THIS SMALL DISPLAY. Through this project, I learnt the use of OLED, and MPU6050(motion sensor) especially and make my robotics passion more!!!
+Dinox Buddy is a little robot I'm building to explore robotics, electronics, and programming and for the Half-Life program by Hack Club. The reason itz name is dinox cuz you can literary PLAY THAT DINO GAME IN THIS SMALL DISPLAY. Through this project, I learnt the use of OLED, and MPU6050(motion sensor) especially and make my robotics passion more!!!
 
 This is just a progress and am excited to take it to a next level.
 
@@ -7,6 +7,7 @@ This is just a progress and am excited to take it to a next level.
 
 
 # Features
+*What it does?*
 - Shows animated eyes with different expressions.
 - Reacts when the robot is shaken.
 - Measures the temperature and humidity around it and displays it always
